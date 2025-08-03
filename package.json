@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "nse-data-frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
